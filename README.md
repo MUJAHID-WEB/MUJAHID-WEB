@@ -60,8 +60,6 @@ I am a Frontend Engineer from Dhaka, Bangladesh.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUJAHID-WEB&hide_progress=true) &nbsp;&nbsp; ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUJAHID-WEB&show_icons=true&theme=transparent)  
 
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
