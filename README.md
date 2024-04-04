@@ -16,11 +16,17 @@
   <a href="https://wa.me/+8801849100112">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
+   <a href="https://www.facebook.com/mujahidul.islam.90410/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
   <a href="skype:live:.cid.1a3f6e3d8988f339?chat">
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
   <a href="https://slack.com/">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0119e1d121c251c417">
+    <img src="https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
 </div>
 
@@ -57,7 +63,7 @@ I am a Frontend Engineer from Dhaka, Bangladesh.
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MUJAHID-WEB&theme=calm&border_radius=8.4" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUJAHID-WEB&hide_progress=true) &nbsp;&nbsp; ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUJAHID-WEB&show_icons=true&theme=transparent)  
+![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUJAHID-WEB&show_icons=true&theme=transparent)  &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUJAHID-WEB&hide_progress=true)
 
 
 <p align="center">
