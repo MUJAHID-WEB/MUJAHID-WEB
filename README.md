@@ -31,11 +31,7 @@
 
 I am a Frontend Engineer from Dhaka, Bangladesh.
 
-- :telescope: I’m working as a Frontend Engineer and contributing to frontend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-mujahidul-islam/)
+- Boasting over years in Frontend Development, I specialize in React, Next.Js, TypeScript, Redux, Tailwind CSS, HTML, CSS, and Flutter. Versatile in tech stacks, I thrive in roles that embrace continuous learning and innovation. Excited to bring dynamic UI skills to your team.
 
 ---
 
