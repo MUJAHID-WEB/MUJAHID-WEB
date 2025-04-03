@@ -61,7 +61,7 @@ I am a Frontend Engineer from Dhaka, Bangladesh.
 
 ### :fire: My Stats :
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MUJAHID-WEB&theme=calm&border_radius=8.4" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MUJAHID-WEB&theme=dark)](https://git.io/streak-stats)
 
 
